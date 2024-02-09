@@ -1,4 +1,4 @@
-# vizualization-challenge
+# Pharmaceutical Trial Data Cleaning, Analysis, and Visualization
 
 In this project, pharmaceutical data for a sample of 249 mice treated with several anti-cancer medications was cleaned, analyzed and visualized. The project was conducted according to the workflow below:
 
